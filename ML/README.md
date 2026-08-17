@@ -139,7 +139,7 @@ streamlit run app.py                # launches the web app on http://localhost:8
 
 Deployed on **Streamlit Community Cloud**:
 
-> https://YOUR-APP.streamlit.app
+> https://dinesh-panda-2025ac05867.streamlit.app/
 
 ---
 
