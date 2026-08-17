@@ -34,7 +34,7 @@ import seaborn as sns
 # ---------------------------------------------------------------------------
 # Paths & constants
 # ---------------------------------------------------------------------------
-MODEL_DIR   = "model"
+MODEL_DIR   = "ML/model"
 TEST_CSV    = "ML/test_data.csv"   # bundled test data so the app works out-of-the-box
 
 FEATURE_COLS = ["age", "sex", "cp", "trestbps", "chol", "fbs", "restecg",
