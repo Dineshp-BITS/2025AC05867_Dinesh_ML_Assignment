@@ -34,8 +34,8 @@ import seaborn as sns
 # ---------------------------------------------------------------------------
 # Paths & constants
 # ---------------------------------------------------------------------------
-MODEL_DIR   = "https://github.com/Dineshp-BITS/2025AC05867_Dinesh_ML_Assignment/edit/main/ML/model"
-TEST_CSV    = "https://github.com/Dineshp-BITS/2025AC05867_Dinesh_ML_Assignment/edit/main/ML/test_data.csv"   # bundled test data so the app works out-of-the-box
+MODEL_DIR   = "Dineshp-BITS/2025AC05867_Dinesh_ML_Assignment/edit/main/ML"
+TEST_CSV    = "Dineshp-BITS/2025AC05867_Dinesh_ML_Assignment/edit/main/ML/test_data.csv"   # bundled test data so the app works out-of-the-box
 
 FEATURE_COLS = ["age", "sex", "cp", "trestbps", "chol", "fbs", "restecg",
                 "thalch", "exang", "oldpeak", "slope", "ca", "thal"]
