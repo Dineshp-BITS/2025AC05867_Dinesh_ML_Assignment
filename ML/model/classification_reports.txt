@@ -1,0 +1,50 @@
+===== Logistic Regression =====
+              precision    recall  f1-score   support
+
+  No Disease       0.82      0.78      0.80       103
+     Disease       0.83      0.87      0.85       127
+
+    accuracy                           0.83       230
+   macro avg       0.83      0.82      0.82       230
+weighted avg       0.83      0.83      0.83       230
+
+===== Decision Tree =====
+              precision    recall  f1-score   support
+
+  No Disease       0.82      0.78      0.80       103
+     Disease       0.83      0.87      0.85       127
+
+    accuracy                           0.83       230
+   macro avg       0.83      0.82      0.82       230
+weighted avg       0.83      0.83      0.83       230
+
+===== kNN =====
+              precision    recall  f1-score   support
+
+  No Disease       0.81      0.82      0.81       103
+     Disease       0.85      0.84      0.85       127
+
+    accuracy                           0.83       230
+   macro avg       0.83      0.83      0.83       230
+weighted avg       0.83      0.83      0.83       230
+
+===== Naive Bayes =====
+              precision    recall  f1-score   support
+
+  No Disease       0.81      0.78      0.79       103
+     Disease       0.82      0.85      0.84       127
+
+    accuracy                           0.82       230
+   macro avg       0.82      0.81      0.81       230
+weighted avg       0.82      0.82      0.82       230
+
+===== Random Forest =====
+              precision    recall  f1-score   support
+
+  No Disease       0.85      0.76      0.80       103
+     Disease       0.82      0.89      0.85       127
+
+    accuracy                           0.83       230
+   macro avg       0.83      0.82      0.83       230
+weighted avg       0.83      0.83      0.83       230
+
