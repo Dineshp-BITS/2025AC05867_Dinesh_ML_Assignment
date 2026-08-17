@@ -53,11 +53,7 @@ before scaling with a `StandardScaler`.
 
 ## c. GitHub Repository Link
 
-> https://github.com/YOUR_USERNAME/ml-assignment2-heart-disease
-
-*(Replace with your own repository link after pushing the project. The repo contains
-`app.py`, `requirements.txt`, `README.md`, `test_data.csv`, `model/` with the training
-script and all saved model files.)*
+> https://github.com/Dineshp-BITS/2025AC05867_Dinesh_ML_Assignment
 
 ---
 
@@ -144,9 +140,6 @@ streamlit run app.py                # launches the web app on http://localhost:8
 Deployed on **Streamlit Community Cloud**:
 
 > https://YOUR-APP.streamlit.app
-
-*(Replace with your live app link after deploying from your GitHub repository via
-https://streamlit.io/cloud — New App → select repo → branch `main` → `app.py` → Deploy.)*
 
 ---
 
