@@ -102,8 +102,7 @@ project-folder/
 ├── requirements.txt           # Python dependencies
 ├── README.md                  # This file
 ├── test_data.csv              # Held-out test data (230 rows, used for demo)
-├── data/
-│   └── heart_disease_uci.csv  # Full original dataset (920 rows)
+├── heart_disease_uci.csv  # Full original dataset (920 rows)
 └── model/
     ├── model_training.py      # Training script for all 5 models
     ├── model_metrics.csv      # Metric comparison table
