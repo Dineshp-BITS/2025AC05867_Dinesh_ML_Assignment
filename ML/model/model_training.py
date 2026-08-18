@@ -49,8 +49,8 @@ import joblib
 # ---------------------------------------------------------------------------
 # 1. Configuration
 # ---------------------------------------------------------------------------
-DATA_FILE = os.path.join(os.path.dirname(os.path.abspath(2025AC05867_Dinesh_ML_Assignment/edit/main/ML)), "heart_disease_uci.csv")
-OUT_DIR    = os.path.dirname(os.path.abspath(2025AC05867_Dinesh_ML_Assignment/edit/main/ML))
+DATA_FILE = os.path.join(os.path.dirname(os.path.abspath(ML)), "heart_disease_uci.csv")
+OUT_DIR    = os.path.dirname(os.path.abspath(ML))
 TEST_CSV   = os.path.join(OUT_DIR, "test_data.csv")
 
 RANDOM_STATE = 42
